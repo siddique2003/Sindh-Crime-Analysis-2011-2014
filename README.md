@@ -18,6 +18,12 @@ The repo includes various charts and graphs that depict trends in crime across d
 - Karachi, Sukkur, and Hyderabad emerged as the cities with the highest crime rates, in that order.
 - The analysis highlighted significant issues in public safety and crime distribution, especially in urban centers.
 
+## How to Download and Use the Power BI File
+- Navigate to the `Files` section of the repository.
+- Locate the `.pbix` file named `Sindh-Crime-Analysis-2011-2014.pbix`.
+- Click on the file name, then click the `Download` button to save it to your computer.
+- Open the file using Power BI Desktop. If you don’t have Power BI Desktop, you can download it from [Microsoft’s official website](https://powerbi.microsoft.com/en-us/downloads/).
+
 ## Installation/Usage
 To view the visualizations:
 1. Clone the repository to your local machine.
